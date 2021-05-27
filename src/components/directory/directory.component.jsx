@@ -52,7 +52,7 @@ export default class Directory extends React.Component {
                     <MenuItem
                         key={id} {...OtherSectionProps}
                     />
-                    ))
+                ))
                 }
             </div>
         )
